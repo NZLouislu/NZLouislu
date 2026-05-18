@@ -1,6 +1,7 @@
 ### Welcome to NZLouis' GitHub 👋
 
 **Louis Lu** is a ✨ _highly competent_ ✨ Senior Software Engineer based in New Zealand, passionate about building scalable enterprise architectures and exploring the intersection of modern tech stacks with AI/LLM solutions. 
+
 Always learning, writing tech blogs, and experimenting with software efficiency tools in my spare time. 🚀
 
 ---
