@@ -1,7 +1,7 @@
 ### Welcome to NZLouis' GitHub 👋
 
-**Louis Lu** is a ✨ _highly competent_ ✨ Software Engineer at **Westpac New Zealand**, passionate about building scalable software and AI-powered applications.  
-I bridge **banking-grade enterprise software** with **modern AI/LLM solutions**, making me well-suited for **remote roles in the US and Australia**.
+**Louis Lu** is a ✨ _highly competent_ ✨ Senior Software Engineer based in New Zealand, passionate about building scalable enterprise architectures and exploring the intersection of modern tech stacks with AI/LLM solutions. 
+Always learning, writing tech blogs, and experimenting with software efficiency tools in my spare time. 🚀
 
 ---
 
